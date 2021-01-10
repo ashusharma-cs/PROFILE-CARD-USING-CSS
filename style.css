@@ -99,7 +99,7 @@
     font-size: 18px;
 
 }
-.text #info{
+.text .info{
     color: hsl(0, 0%, 59%);
     font-size: 12px;
     letter-spacing: 2px;
