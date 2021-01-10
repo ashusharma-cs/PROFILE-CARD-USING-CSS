@@ -1,5 +1,5 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution { font-size: 14px; text-align: center; }
+.attribution a { color: white; }
 
 *{
     margin: 0;
@@ -57,10 +57,10 @@ body{
     border-radius: 50px;
 }
 .center .pic{
-    border-radius: 50px;
+    border-radius: 55px;
     position: relative;
     z-index: 2;
-    /* border: 2px solid red; */
+    border: 4px solid white;
 }
 .center .name{
     /* border: 2px solid pink; */
